@@ -1,18 +1,17 @@
 # 💫 About Me:
 ### Thinh Nguyen
-- Student in Feintechnikschule (With IT major)
+- Student in Feintechnikschule (With Computer Science major)
 - Based in Villingen-Schwenningen, Germany
 - Nationality: Vietnam (but Bulgarian citizen)
-- Age: 18 fresh
+- Age: 19
 - Languages: German, English, Bulgarian, Vietnamese and little bit of Spanish
 
-### Main programming languages
-- GoLang: 9/10
-- Typescript/Javascript: 9/10
-- Java: 3/10
-- C++: 3/10
-- Rust: 3/10
-- C: 2/10
+### Languages that I familar with
+- GoLang
+- Javascript/Typescript
+- Swift
+- C++
+- Java
 
 ### IT Fields
 - Frontend (Web-Application & Mobile)
