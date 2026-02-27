@@ -28,7 +28,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thinis.de) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12344712) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/thinisde) 
 
-# Activity (last 7 days)
+
+# Activity
 <!--START_SECTION:waka-->
 
 ```txt
@@ -38,6 +39,8 @@ Bash          5 hrs 6 mins          ███▓░░░░░░░░░░�
 Markdown      2 hrs 23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
 Python        1 hr 18 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
+
+![wakatime](https://wakatime.com/share/@CutieCat6778/cb29770f-552f-45c1-88fb-4202796950b7.svg)
 
 <!--END_SECTION:waka-->
 
