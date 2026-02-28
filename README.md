@@ -6,7 +6,7 @@
 - Age: 19
 - Languages: German, English, Bulgarian, Vietnamese and little bit of Spanish
 
-### Languages that I familar with
+### Languages that I'm familar with
 - GoLang
 - Javascript/Typescript
 - Swift
