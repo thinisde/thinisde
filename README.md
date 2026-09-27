@@ -51,11 +51,11 @@ I'm trying to detox from vibecoding, it is corrupting my brain...
 <!--START_SECTION:waka-->
 
 ```txt
-Python            54 hrs 44 mins        ███████████████░░░░░░░░░░   60.64 %
-Markdown          15 hrs 54 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
-Other             14 hrs 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
-netrw             1 hr 21 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-TOML              52 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Python            56 hrs 43 mins        ███████████████▒░░░░░░░░░   61.20 %
+Other             13 hrs 55 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Markdown          12 hrs 57 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
+C                 3 hrs 24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+netrw             1 hr 23 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
