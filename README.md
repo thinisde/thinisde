@@ -1,42 +1,6 @@
-<table>
-<tr>
-<td>
-
-**Thinh Nguyen**  
-Computer Science Student @ **Feintechnikschule**  
-Villingen-Schwenningen, Germany  
-Vietnamese • Bulgarian Citizen  
-19 years old  
-
-Interested in **backend systems, distributed systems and infrastructure**
-
-</td>
-<td>
-
-| Languages |
-|--------------|
-| German |
-| English |
-| Bulgarian |
-| Vietnamese |
-| Spanish *(basic)* |
-
-</td>
-</tr>
-</table>
-
-
-I'm trying to detox from vibecoding, it is corrupting my brain...
-
-# Technical Fields
-
-| Field | Technologies |
-|------|-------------|
-| **Frontend** | Web Applications, Mobile Apps |
-| **Backend** | REST APIs, SQL, NoSQL |
-| **Infrastructure** | Linux, Networking, Docker |
-| **DevOps** | Containers, basic Kubernetes |
-| **Systems** | Hardware, Embedded Programming |
+# Thinh Nguyen
+- TUM Electrical Engineering Bachelor
+- Co-Founder/CTO of [Air2growth](https://air2growth.com)
 
 # Contact
 
